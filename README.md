@@ -1,13 +1,13 @@
-#Python Sıralama Algoritmaları
+# Python Sıralama Algoritmaları
 Bu proje, beş farklı sıralama algoritmasını kullanarak bir veri listesini sıralayan bir Python uygulamasıdır.
 
-#İçerikler
+# İçerikler
 Bubble Sort
 Quick Sort
 Heap Sort
 Merge Sort
 Selection Sort
-#Kullanım
+# Kullanım
 Terminalden veya bir Python IDE'den programı çalıştırın.
 Ekranda belirtilen sıralama algoritmasını seçin: 'bubble', 'quick', 'heap', 'merge' veya 'selection'.
 Giriş türünü belirtin: 'kelime' veya 'sayi'.
