@@ -13,6 +13,7 @@ Ekranda belirtilen sıralama algoritmasını seçin: 'bubble', 'quick', 'heap', 
 Giriş türünü belirtin: 'kelime' veya 'sayi'.
 İlgili formatı takip ederek verinizi girin.
 Sıralanmış veriyi ve süreyi ekranda göreceksiniz.
+
   Output örneği:
 Hangi sıralama algoritmasını kullanmak istersiniz? (bubble/quick/heap/merge/selection): quick
 Giriş türünü seçin: (kelime/sayi): sayi
